@@ -6,11 +6,9 @@
 
 ## Preview
 
-### Desktop Admin
-![Preview Desktop](doc/badminton_hall_desktop.png)
+### Logo
+![Preview Desktop](doc/logo.png)
 
-### Mobile User
-![Preview Mobile](doc/badminton_hall_mobile.png)
 
 ## Latar Belakang
 
